@@ -1,0 +1,20 @@
+h1 {
+    color: crimson;
+}
+
+#special {
+    font-size: 80px;
+    color: teal;
+}
+
+.highlight {
+    background-color: rgb(255, 255, 12);
+}
+
+.lowlight {
+    background-color: rgba(64, 45, 151, 0.445);
+}
+.changingcolor {
+    background-color: #ffb6ff
+
+}
