@@ -1,5 +1,5 @@
 #
-import Alanpy9Func as a5
+import Alanpy9zz as a5
 
 import datetime as datetime
 
@@ -28,7 +28,7 @@ def fun3():
     a += 2
     return a
 
-
+a5.Alanpy9Func()
 print(s)
 # comm1
 # comm2
