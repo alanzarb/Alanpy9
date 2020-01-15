@@ -26,7 +26,7 @@ for ii in range(2, 13):
 pass
 
 
-def Alanpy6zz():
+def Alanpy9Func():
     '''
     Print a bunch of stuff breaking
     down the __file__ magic value
@@ -50,5 +50,5 @@ def Alanpy6zz():
 
 if __name__ == "__main__":
     # // comment
-    Alanpy6zz()
+    Alanpy9Func()
     # // comment
