@@ -28,7 +28,7 @@ def fun3():
     a += 2
     return a
 
-a5.Alanpy9Func()
+a5.Alanpy9Fun()
 print(s)
 # comm1
 # comm2
