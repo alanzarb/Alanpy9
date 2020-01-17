@@ -30,6 +30,7 @@ def Alanpy9Fun():
     '''
     Print a bunch of stuff breaking
     down the __file__ magic value
+    plus a comment for tracking with gitlens
     '''
 
     str1 = "Name {}.  File {}"
